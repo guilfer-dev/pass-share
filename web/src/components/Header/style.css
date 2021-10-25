@@ -1,0 +1,44 @@
+.global-header {
+    display: flex;
+    align-items: center;
+    margin: 0 30px;
+}
+
+.global-header img {
+    height: 100px;
+}
+
+.global-header span {
+    display: block;
+    height: 100%;
+    font-size: 20px;
+    margin-left: auto;
+}
+
+.head-btns button {
+    margin-left: 30px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #252526;
+    color: white;
+    border: 1px solid;
+    box-shadow: 2px 4px black;
+}
+
+.head-btns button:active {
+    transform: translateY(2px);
+}
+
+.global-header i.logout {
+    margin-left: 5px;
+}
+
+.global-header .logout {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.global-header .logout:hover {
+    opacity: 80%;
+}

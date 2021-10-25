@@ -1,0 +1,51 @@
+.new-pool-form-container {
+    position: relative;
+    box-sizing: border-box;
+    height: fit-content;
+    margin: 25px;
+    background-color: #252526;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.service-information {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.input-group {
+    margin: 15px;
+}
+
+.input-group .people-pool {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.input-group strong {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.payment-method-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.new-pool-form-container button {
+    display: block;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #252526;
+    color: white;
+    border: 1px solid;
+    box-shadow: 2px 4px black;
+    margin: 10px auto;
+}
+
+.new-pool-form-container button:active {
+    transform: translateY(2px);
+}
