@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PassShare/static/css/main.042ed964.chunk.css",
-    "main.js": "/PassShare/static/js/main.41ab4ee4.chunk.js",
-    "main.js.map": "/PassShare/static/js/main.41ab4ee4.chunk.js.map",
-    "runtime-main.js": "/PassShare/static/js/runtime-main.5ae1926a.js",
-    "runtime-main.js.map": "/PassShare/static/js/runtime-main.5ae1926a.js.map",
-    "static/js/2.e3772a70.chunk.js": "/PassShare/static/js/2.e3772a70.chunk.js",
-    "static/js/2.e3772a70.chunk.js.map": "/PassShare/static/js/2.e3772a70.chunk.js.map",
-    "static/js/3.c7ba59e0.chunk.js": "/PassShare/static/js/3.c7ba59e0.chunk.js",
-    "static/js/3.c7ba59e0.chunk.js.map": "/PassShare/static/js/3.c7ba59e0.chunk.js.map",
-    "index.html": "/PassShare/index.html",
-    "static/css/main.042ed964.chunk.css.map": "/PassShare/static/css/main.042ed964.chunk.css.map",
-    "static/js/2.e3772a70.chunk.js.LICENSE.txt": "/PassShare/static/js/2.e3772a70.chunk.js.LICENSE.txt",
-    "static/media/logo.57607e43.gif": "/PassShare/static/media/logo.57607e43.gif",
-    "static/media/logo2.7e3663ce.gif": "/PassShare/static/media/logo2.7e3663ce.gif"
+    "main.css": "/pass-share/static/css/main.1cdab29f.chunk.css",
+    "main.js": "/pass-share/static/js/main.41ab4ee4.chunk.js",
+    "main.js.map": "/pass-share/static/js/main.41ab4ee4.chunk.js.map",
+    "runtime-main.js": "/pass-share/static/js/runtime-main.1392417e.js",
+    "runtime-main.js.map": "/pass-share/static/js/runtime-main.1392417e.js.map",
+    "static/js/2.e3772a70.chunk.js": "/pass-share/static/js/2.e3772a70.chunk.js",
+    "static/js/2.e3772a70.chunk.js.map": "/pass-share/static/js/2.e3772a70.chunk.js.map",
+    "static/js/3.c7ba59e0.chunk.js": "/pass-share/static/js/3.c7ba59e0.chunk.js",
+    "static/js/3.c7ba59e0.chunk.js.map": "/pass-share/static/js/3.c7ba59e0.chunk.js.map",
+    "index.html": "/pass-share/index.html",
+    "static/css/main.1cdab29f.chunk.css.map": "/pass-share/static/css/main.1cdab29f.chunk.css.map",
+    "static/js/2.e3772a70.chunk.js.LICENSE.txt": "/pass-share/static/js/2.e3772a70.chunk.js.LICENSE.txt",
+    "static/media/logo.57607e43.gif": "/pass-share/static/media/logo.57607e43.gif",
+    "static/media/logo2.7e3663ce.gif": "/pass-share/static/media/logo2.7e3663ce.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ae1926a.js",
+    "static/js/runtime-main.1392417e.js",
     "static/js/2.e3772a70.chunk.js",
-    "static/css/main.042ed964.chunk.css",
+    "static/css/main.1cdab29f.chunk.css",
     "static/js/main.41ab4ee4.chunk.js"
   ]
 }
