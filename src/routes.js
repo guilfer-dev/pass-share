@@ -13,7 +13,7 @@ import {
 export default function Routes() {
 
     return (
-        <BrowserRouter basename="/PassShare">
+        <BrowserRouter basename="/pass-share">
             <Switch >
                 <Route exact path="/login"> <Login /></Route>
                 <Route exact path="/"> <Home /></Route>
